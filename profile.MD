@@ -1,11 +1,6 @@
 
 # 👋 สวัสดีครับ! ยินดีต้อนรับสู่หน้าโปรไฟล์ของผม
 
-<h2 align="center">👤 สรสิช จินตสิทธิ์</h2>
-<p align="center">
-  <b>FIRST | Information Technology</b>
-</p>
-
 ---
 
 ## 📌 ข้อมูลส่วนตัว
